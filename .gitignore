@@ -1,2 +1,6 @@
 .idea
 aws-vpc-terraform-module.iml
+.terraform
+terraform.tfstate
+*tfvars
+terraform*
